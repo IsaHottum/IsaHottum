@@ -1,4 +1,4 @@
-## Olá, eu sou a Isabela 🌻
+## Olá, eu sou a Isa
 <ul>
   <li> Sou formada em Administração pelo SENAC RS. </li>
   <li> Atualmente estou cursando técnico em Desenvolvimento de Sistemas. </li>
