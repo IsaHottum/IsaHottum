@@ -1,11 +1,4 @@
 ## Olá, eu sou a Isa
-<ul>
-  <li> Sou formada em Administração pelo SENAC RS. </li>
-  <li> Atualmente estou cursando técnico em Desenvolvimento de Sistemas. </li>
-  <li> Sou apaixonada em aprender novas coisas e explorar novas tecnologias. </li>
-<ul>
-<br>
-<br>
 <div>
   <a href="https://github.com/IsaHottum">
   <img align="center height= "180cm" src="https://github-readme-stats.vercel.app/api?username=isahottum&count_private=true&show_icons=true&theme=radical" >
