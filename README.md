@@ -1,4 +1,4 @@
-## Olá, eu sou a Isa
+## Olá, eu sou a Isa 👋🏻
 <div>
   <a href="https://github.com/IsaHottum">
   <img align="center height= "180cm" src="https://github-readme-stats.vercel.app/api?username=isahottum&count_private=true&show_icons=true&theme=radical" >
