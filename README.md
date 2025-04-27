@@ -15,12 +15,7 @@ Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se �
 
 ---
 
-<div>
-  <a href="https://github.com/IsaHottum">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahottum&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=00000000"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahottum&theme=github_dark_dimmed&langs_count=5&bg_color=00000000"/>
-  </a>
-</div>
+![Descrição do GIF](https://i.redd.it/u0p3zby0qr601.gif)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
