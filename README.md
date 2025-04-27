@@ -1,10 +1,29 @@
 ## Olá, eu sou a Isa 👋🏻
+
+Meu nome é Isa e eu estou trilhando meu caminho no mundo da tecnologia com muita paixão e dedicação! 🚀
+
+Sou formada em Técnico em Administração pelo SENAC RS, onde desenvolvi habilidades em liderança, organização e gestão de processos. Mais tarde, me formei também na Proz Educação, atuando como representante de turma por boa parte do curso — uma experiência que me ensinou ainda mais sobre responsabilidade e trabalho em equipe.
+
+Durante essa caminhada, surgiu uma grande oportunidade: comecei minha carreira na área de tecnologia na Centralx, a primeira empresa do Brasil a desenvolver um prontuário médico eletrônico completo! 💻 É lá que estou até hoje, trabalhando no suporte técnico, lidando com monitoramento e ajustes de redes, suporte remoto, correções e ajustes de bancos de dados em servidores.
+
+Meu objetivo é crescer cada vez mais nessa área, especialmente focando na minha grande paixão: a programação! ❤️‍🔥
+
+Sou uma eterna aprendiz e estou sempre buscando me desenvolver. Tenho formação em inglês (nível I) pelo IFRS e um certificado em Pacote Office. Atualmente, estou me aprofundando em:
+
+- Arquitetura de Redes com Gabriel Torres
+- Fundamentos de Inteligência Artificial Guiada com Capstone da IBM
+
+Se quiser trocar ideias sobre tecnologia, aprender junto ou só dar um "oi", fique à vontade para me chamar! Vamos crescer juntos! 🌱✨
+
+---
+
 <div>
   <a href="https://github.com/IsaHottum">
-  <img align="center height= "180cm" src="https://github-readme-stats.vercel.app/api?username=isahottum&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=00000000" >
-  <img align="center height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahottum&theme=github_dark_dimmed&langs_count=5&bg_color=00000000"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahottum&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahottum&theme=github_dark_dimmed&langs_count=5&bg_color=00000000"/>
+  </a>
 </div>
- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Isa-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -17,9 +36,13 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/ishottum/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabela-aparecida-0640ba241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:isabelaaparecida51@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ishottum/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/isabela-aparecida-0640ba241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:isabelaaparecida51@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-<br>
-<br>
