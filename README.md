@@ -1,19 +1,17 @@
 ## Olá, eu sou a Isa 👋🏻
 
-Meu nome é Isa e eu estou trilhando meu caminho no mundo da tecnologia com muita paixão e dedicação! 🚀
+Sou formada em Técnico em Administração pelo SENAC RS, onde desenvolvi habilidades em liderança, organização e gestão de processos. Mais tarde, me formei também em um Técnico em Desenvolvimento de Sistemas na Proz Educação, atuando como representante de turma por boa parte do curso - uma experiência que me ensinou ainda mais sobre responsabilidade e trabalho em equipe. 🚀
 
-Sou formada em Técnico em Administração pelo SENAC RS, onde desenvolvi habilidades em liderança, organização e gestão de processos. Mais tarde, me formei também na Proz Educação, atuando como representante de turma por boa parte do curso — uma experiência que me ensinou ainda mais sobre responsabilidade e trabalho em equipe.
-
-Durante essa caminhada, surgiu uma grande oportunidade: comecei minha carreira na área de tecnologia na Centralx, a primeira empresa do Brasil a desenvolver um prontuário médico eletrônico completo! 💻 É lá que estou até hoje, trabalhando no suporte técnico, lidando com monitoramento e ajustes de redes, suporte remoto, correções e ajustes de bancos de dados em servidores.
+Durante essa caminhada, surgiu uma grande oportunidade: comecei minha carreira na área de tecnologia na Centralx, a primeira empresa do Brasil a desenvolver um prontuário médico eletrônico completo! 💻 É lá que estou até hoje, trabalhando no suporte técnico, lidando com monitoramento, ajustes de redes, suporte remoto, correções e ajustes de bancos de dados em servidores e muito mais.
 
 Meu objetivo é crescer cada vez mais nessa área, especialmente focando na minha grande paixão: a programação! ❤️‍🔥
 
 Sou uma eterna aprendiz e estou sempre buscando me desenvolver. Tenho formação em inglês (nível I) pelo IFRS e um certificado em Pacote Office. Atualmente, estou me aprofundando em:
 
-- Arquitetura de Redes com Gabriel Torres
-- Fundamentos de Inteligência Artificial Guiada com Capstone da IBM
+- Arquitetura de Redes com Gabriel Torres pela Udemy
+- Fundamentos de Inteligência Artificial Guiada com Capstone pela IBM
 
-Se quiser trocar ideias sobre tecnologia, aprender junto ou só dar um "oi", fique à vontade para me chamar! Vamos crescer juntos! 🌱✨
+Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato! 🌱✨
 
 ---
 
