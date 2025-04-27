@@ -15,7 +15,7 @@ Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se �
 
 ---
 
-![Descrição do GIF](https://i.redd.it/u0p3zby0qr601.gif)
+![Descrição do GIF](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
