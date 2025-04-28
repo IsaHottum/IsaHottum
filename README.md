@@ -11,7 +11,7 @@ Sou uma eterna aprendiz e estou sempre buscando me desenvolver. Tenho formação
 - Arquitetura de Redes com Gabriel Torres pela Udemy
 - Fundamentos de Inteligência Artificial Guiada com Capstone pela IBM
 
-Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato! 🌱✨
+Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato! ✨
 
 ---
 
