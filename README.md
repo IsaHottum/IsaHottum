@@ -26,7 +26,7 @@ Estou sempre aberta a novas conex√µes e oportunidades de aprendizado. Sinta-se √
   <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-##
+---
 
 <div>
   <a href="https://www.instagram.com/ishottum/" target="_blank">
