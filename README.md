@@ -1,6 +1,6 @@
 ## Olá, eu sou a Isa 👋🏻
 
-Sou formada em Técnico em Administração pelo SENAC RS, onde desenvolvi habilidades em liderança, organização e gestão de processos. Mais tarde, me formei também em um Técnico em Desenvolvimento de Sistemas na Proz Educação, atuando como representante de turma por boa parte do curso - uma experiência que me ensinou ainda mais sobre responsabilidade e trabalho em equipe. 🚀
+Sou formada em Técnico em Administração pelo SENAC RS, onde desenvolvi habilidades em liderança, organização e gestão de processos. Mais tarde, concluí também o Técnico em Desenvolvimento de Sistemas pela Proz Educação, atuando como representante de turma por boa parte do curso — uma experiência que reforçou ainda mais minha responsabilidade e meu trabalho em equipe. 🚀
 
 Durante essa caminhada, surgiu uma grande oportunidade: comecei minha carreira na área de tecnologia na Centralx, a primeira empresa do Brasil a desenvolver um prontuário médico eletrônico completo! 💻 É lá que estou até hoje, trabalhando no suporte técnico, lidando com monitoramento, ajustes de redes, suporte remoto, correções e ajustes de bancos de dados em servidores e muito mais.
 
