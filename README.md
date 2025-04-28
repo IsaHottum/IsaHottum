@@ -15,7 +15,7 @@ Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se �
 
 ---
 
-![Descrição do GIF]([https://i.redd.it/u0p3zby0qr601.gif](https://images.steamusercontent.com/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=1024&imh=541&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
+![Descrição do GIF](https://images.steamusercontent.com/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=1024&imh=541&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
