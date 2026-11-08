@@ -9,7 +9,6 @@ Meu objetivo é crescer cada vez mais nessa área, especialmente focando na minh
 Sou uma eterna aprendiz e estou sempre buscando me desenvolver. Tenho formação em inglês (nível I) pelo IFRS e um certificado em Pacote Office. Atualmente, estou me aprofundando em:
 
 - Arquitetura de Redes com Gabriel Torres pela Udemy
-- Fundamentos de Inteligência Artificial Guiada com Capstone pela IBM
 
 Estou sempre aberta a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato! ✨
 
